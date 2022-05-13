@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RuleSet Name="open!csharp-style" Description=" " ToolsVersion="16.0">
+<RuleSet Name="yambar csharp" Description=" " ToolsVersion="16.0">
   <Rules AnalyzerId="Microsoft.CodeQuality.Analyzers" RuleNamespace="Microsoft.CodeQuality.Analyzers">
     <Rule Id="CA1010" Action="None" />
     <Rule Id="CA1016" Action="None" />
