@@ -1,3 +1,5 @@
+<img src="assets/logo.png" align="center" style="margin: 50px"/>
+
 <h1 align="center">
 C# Code Conventions for Yambar Projects
 </h1>
