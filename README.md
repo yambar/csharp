@@ -1,4 +1,7 @@
-<img src="assets/logo.png" align="center" style="margin: 50px"/>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/yambar/csharp/master/assets/wallpaper-dark.png#gh-light-mode-only">
+    <img src="https://raw.githubusercontent.com/yambar/csharp/master/assets/wallpaper-light.png#gh-dark-mode-only">
+</p>
 
 <h1 align="center">
 C# Code Conventions for Yambar Projects
